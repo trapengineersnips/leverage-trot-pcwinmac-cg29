@@ -1,4 +1,4 @@
-# 
+# 高级 leverage trading bot 预设 Mac OS版 | 原生 leverage trading bot 预设 PC Windows版。集成 DEX流动性池 和 信号生成，跨平台性能最大化。
 
 
 
